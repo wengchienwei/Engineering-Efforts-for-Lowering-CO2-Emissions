@@ -40,7 +40,7 @@
    "metadata": {},
    "outputs": [],
    "source": [
-    "path_data = r\"C:\\Users\\CHIENWEI\\Desktop\\ESSEC course\\T2\\Business Data Science\\group project\\BusinessDataScienceProjects\\Engineering Efforts for Lowering CO2 Emissions\\co2_emissions.csv\""
+    "path_data = r\"C:\\Engineering Efforts for Lowering CO2 Emissions\\co2_emissions.csv\""
    ]
   },
   {
